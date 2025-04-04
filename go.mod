@@ -1,4 +1,4 @@
-module sso_protos
+module github.com/Mar1eena/sso_protos
 
 go 1.24.1
 
